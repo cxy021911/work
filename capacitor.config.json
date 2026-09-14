@@ -1,0 +1,8 @@
+{
+  "appId": "com.zilv.home",
+  "appName": "自律之家",
+  "webDir": "dist",
+  "android": {
+    "allowMixedContent": true
+  }
+}
